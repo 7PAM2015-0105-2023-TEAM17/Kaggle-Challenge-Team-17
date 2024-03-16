@@ -1,5 +1,4 @@
-# Kaggle-Challenge-Team-17
-
+![logo](https://github.com/7PAM2015-0105-2023-TEAM17/Kaggle-Challenge-Team-17/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, this is a Kaggle Challenge Task of TEAM-17</h1>
 <h3 align="center">A Data Science Challenge by Robert Yates</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=6c09b952xl5fs31z6c98u0g8wp7fg7fafdrk9tmsupm3kgv9&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
