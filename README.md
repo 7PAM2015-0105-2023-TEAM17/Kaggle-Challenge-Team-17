@@ -2,9 +2,8 @@
 
 <h1 align="center">Hi 👋, this is a Kaggle Challenge Task of TEAM-17</h1>
 <h3 align="center">A Data Science Challenge by Robert Yates</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/7PAM2015-0105-2023-TEAM17/Kaggle-Challenge-Team-17/assets/117646503/bea6c65d-3eed-474b-a168-336166cf0d54)
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=6c09b952xl5fs31z6c98u0g8wp7fg7fafdrk9tmsupm3kgv9&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 
-">
 - 🔭 We currently working on [Kaggle Challenge](https://www.kaggle.com/competitions/spaceship-titanic/team)
 
 - 🌱 We are currently learning **Data Science**
